@@ -51,3 +51,5 @@ The justify-content Property
 The justify-content property is used to align the whole grid inside the container.
 ![o](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiFF-gjE556x4grAWhIWX05HgtJh5ouDn5gQ&usqp=CAU)
 
+Regular Expressions
+Regular expressions (regex or regexp) are extremely useful in extracting information from any text by searching for one or more matches of a specific search pattern (i.e. a specific sequence of ASCII or unicode characters). Fields of application range from validation to parsing/replacing strings, passing through translating data to other formats and web scraping
