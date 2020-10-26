@@ -14,8 +14,7 @@
 |  [Read: 03](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-03)    |   MUSTACHE and FLEXBOX|19-10-2020|
 | [Read: 04](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-04)    |Read: 04 - Responsive Web Design and Regular Expressions               | 21-10-2020      |  
 |    [Read: 05](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-05)       |Readings: HEROKU  |  22-10-2020     |  
-|          |               |       |  
-|          |               |       |  
+[Read: 07](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-07)       |Readings  |  26-10-2020     |  |          |               |       |  
 |          |               |       |  
 |          |               |       |  
 |          |               |       |  
