@@ -12,10 +12,11 @@
 |[Read: 01](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-01)  |      SMACSS and Responsive Web Design         |  17-10-2020|
 |  [Read: 02](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-02) | jQuery, Events, and The DOM   |   18-10-2020    |  
 |  [Read: 03](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-03)    |   MUSTACHE and FLEXBOX|19-10-2020|
-| [Read: 04](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-04)    |Read: 04 - Responsive Web Design and Regular Expressions               | 21-10-2020      |  
-|    [Read: 05](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-05)       |Readings: HEROKU  |  22-10-2020     |  
-[Read: 07](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-07)       |Readings  |  26-10-2020     |  |          |               |       |  
-|          |               |       |  
+| [Read: 04](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-04)    |Read: 04 - Responsive Web Design and Regular Expressions| 21-10-2020      |  
+|    [Read: 05](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-05)  |Readings: HEROKU  |  22-10-2020     |
+|    [Read: 06](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-06)   |Readings:  |  26-10-2020     |
+[Read: 07](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-07)|Read: 06 - Node, Express, and APIs|  26-10-2020 | 
+[Read: 08](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-08)|Read: 08 - SQL|  27-10-2020 | 
 |          |               |       |  
 |          |               |       |  
 |          |               |       |  
