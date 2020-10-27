@@ -83,6 +83,34 @@ A column is a vertical entity in a table that contains all information associate
    **CREATE INDEX** - creates an index (search key)
    
    **DROP INDEX**- deletes an index
-   
+   SQL SELECT Statement
+
    >SELECT column1, column2, ...FROM table_name;
 >SELECT * FROM Customers; ---> selects all the columns from the "Customers" table
+
+
+
+SQL WHERE Statement
+
+*The WHERE clause is used to filter records.*
+
+>selects all the customers from the country "Mexico", in the "Customers" table
+
+``SELECT * FROM Customers``
+``WHERE Country='Mexico';``
+``SQL AND, OR and NOT Operators``
+
+*The AND and OR operators are used to filter records based on more than one condition*
+
+>AND Syntax
+
+``SELECT * FROM Customers``
+``WHERE Country='Germany' AND City='Berlin';``
+>OR 
+
+``SELECT * FROM Customers``
+``WHERE Country='Germany' OR Country='Spain';``
+>NOT 
+
+``SELECT * FROM Customers``
+``WHERE NOT Country='Germany';``
