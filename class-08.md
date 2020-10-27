@@ -83,3 +83,6 @@ A column is a vertical entity in a table that contains all information associate
    **CREATE INDEX** - creates an index (search key)
    
    **DROP INDEX**- deletes an index
+   
+   >SELECT column1, column2, ...FROM table_name;
+>SELECT * FROM Customers; ---> selects all the columns from the "Customers" table
