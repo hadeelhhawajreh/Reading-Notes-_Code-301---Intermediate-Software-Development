@@ -17,7 +17,7 @@
 |    [Read: 06](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-06)   |Readings:06 - Node, Express, and APIs  |  26-10-2020     |
 [Read: 07](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-07)|Read7 :API's|  26-10-2020 | 
 [Read: 08](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-08)|Read: 08 - SQL|  27-10-2020 | 
-|          |               |       |  
+[Read: 09](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-08)|Read: 08 - SQL|  27-10-2020 | 
 |          |               |       |  
 |          |               |       |  
 |          |               |       |  
