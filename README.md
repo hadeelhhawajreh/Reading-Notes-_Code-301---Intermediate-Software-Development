@@ -21,7 +21,7 @@
 [Read: 10](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-10)|Read 10: Readings: Call  Stuck|  31-10-2020 | 
 [Read: 11](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-11)|Read 10: Readings: EJS|  1-11-2020 | 
 [Read: 12](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-12)|Read 10: Readings: EJS Partials|  1-11-2020 | 
-|          |               |       |  
+[Read: 13](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-13)|Read 10: Readings: FORM  |  2-11-2020 | 
 |          |               |       |  
 
 
