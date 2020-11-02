@@ -20,7 +20,7 @@
 [Read: 09](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-09)|Read 9: Readings: FUNCTIONAL PROGRAMMING|  28-10-2020 | 
 [Read: 10](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-10)|Read 10: Readings: Call  Stuck|  31-10-2020 | 
 [Read: 11](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-11)|Read 10: Readings: EJS|  1-11-2020 | 
-|          |               |       |  
+[Read: 12](https://hadeelhhawajreh.github.io/Reading-Notes-_Code-301---Intermediate-Software-Development/class-12)|Read 10: Readings: EJS Partials|  1-11-2020 | 
 |          |               |       |  
 |          |               |       |  
 
